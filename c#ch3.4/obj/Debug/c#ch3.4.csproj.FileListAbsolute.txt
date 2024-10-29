@@ -5,3 +5,10 @@ C:\Users\acer\source\repos\c#ch3.4\c#ch3.4\bin\Debug\c#ch3.4.exe
 C:\Users\acer\source\repos\c#ch3.4\c#ch3.4\bin\Debug\c#ch3.4.pdb
 C:\Users\acer\source\repos\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.exe
 C:\Users\acer\source\repos\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.pdb
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\bin\Debug\c#ch3.4.exe.config
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\bin\Debug\c#ch3.4.exe
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\bin\Debug\c#ch3.4.pdb
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.exe
+C:\Users\acer\Desktop\C#\c#ch3.4\c#ch3.4\obj\Debug\c#ch3.4.pdb
